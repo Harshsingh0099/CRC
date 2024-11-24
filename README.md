@@ -1,5 +1,5 @@
 # CRC
-This project is a simple implementation of Cyclic Redundancy Check (CRC) using C programming language. CRC is a popular error-detecting code used to detect accidental changes to raw data. The program demonstrates the encoding and decoding process, ensuring data integrity during transmission.
+This is a simple implementation of Cyclic Redundancy Check (CRC) using C programming language. CRC is a popular error-detecting code used to detect accidental changes to raw data. The program demonstrates the encoding and decoding process, ensuring data integrity during transmission.
 Features
 Encode data using a user-defined generator polynomial.
 Append CRC to the data for transmission.
